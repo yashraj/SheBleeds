@@ -24,9 +24,11 @@ body{
 	color: #4C4C4C;
 	margin: 0px;
 	padding: 25px 0px;
+	font-weight: 100;
 }
 .header-section h1 span{
 	color: #FF284E;
+	font-weight: bold;
 }
 .sb-content{
 	position: relative;
@@ -50,9 +52,11 @@ body{
 .sb-content .sb-desc h1{
 	font-size: 64px;
 	color: #fff;
+	font-weight: 100;
 }
 .sb-content .sb-desc h1 span{
 	color: #FF284E;
+	font-weight: bold;
 }
 .sb-content .sb-desc p{
 	font-size: 24px;
