@@ -10,3 +10,8 @@ $(window).on('load', function(){
 });
 
 
+// window height
+var wh = $(".journey-desc").innerHeight();
+
+// banner height
+$(".journey-img").css("height",wh);
