@@ -318,6 +318,66 @@ body{
 	background-color: #FF284E;
 	color: #fff;
 }
+/*about*/
+#about-section{
+	padding: 40px 0px;
+}
+.about-desc p{
+	font-size: 15px;
+	line-height: 26px;
+	color: #000;
+	width: 65%;
+	margin:0 auto;
+	text-align: center;
+}
+.about-desc p a{
+	color: #4A90E2;
+	text-decoration: none;
+}
+#about-team{
+	background-color: #F9F9F9;
+	padding: 40px 0px;
+}
+.about-desc{
+	padding-bottom: 30px;
+}
+.common-heading p{
+	padding: 15px 0px;
+	font-size: 15px;
+	color: #000;
+}
+.team-section{
+	padding: 20px 0px;
+}
+.team-card{
+	margin-bottom: 30px;
+}
+.team-img{
+	width: 135px;
+	height: 135px;
+	border-radius: 100%;
+	margin: 20px auto;
+}
+.team-img img{
+	width: 135px;
+	height: 135px;
+	object-fit: cover;
+}
+.team-desc h5{
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.team-desc p{
+	font-size: 14px;
+	line-height: 26px;
+}
+.team-desc a{
+	color: #EC4746;
+	font-size: 16px;
+	display: block;
+	text-decoration: none;
+}
 textarea {
 	height: auto !important;
 	resize: none;
@@ -486,6 +546,12 @@ textarea {
 	.contact-container{
 		margin-top: 50px;
 		margin-bottom: 80px;
+	}
+	.about-desc p{
+		width: 95%;
+	}
+	.common-heading p {
+		width: 95%;
 	}
 }
 @media screen and (max-width: 500px){
