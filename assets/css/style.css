@@ -222,7 +222,7 @@ b{
 /*footer*/
 .footer-section{
 	background-color: #121212;
-	padding: 0px 40px;
+	padding: 0px 70px;
 }
 .footer-decs p{
 	color: #FFFFFF;
@@ -234,6 +234,9 @@ b{
 }
 .footer-logo{
 	padding: 12px 0px;
+}
+.footer-logo img{
+	width: 40px;
 }
 .footer-social ul{margin-bottom: 0px;}
 .footer-social ul li{
@@ -459,17 +462,17 @@ textarea {
 	color: #2ecc71;
 }
 .contact-success h5{
-    font-size: 20px;
-    line-height: 26px;
-    color: #000000;
-    font-family: 'poppins-bold';
-    margin-bottom: 10px;
-    width: 300px;
-    margin: 0 auto;
+	font-size: 20px;
+	line-height: 26px;
+	color: #000000;
+	font-family: 'poppins-bold';
+	margin-bottom: 10px;
+	width: 300px;
+	margin: 0 auto;
 }
 /*policy*/
 .policy-section{
-	padding: 40px 60px;
+	padding: 20px 90px;
 }
 .policydocument{
 	margin-bottom: 40px;
@@ -488,6 +491,37 @@ textarea {
 	font-size: 14px;
 	color:rgba(0, 0, 0, 0.76);
 }
+.tcl-img.mob-show{
+	display: none;
+}
+.tcl-img.mob-hide{
+	display: inline-block;
+}
+.blog-section{
+	padding: 20px 75px;
+}
+.blog-section .thumbnail{
+	height: 250px;
+	min-height: 240px;
+	position: relative;
+	padding: 20px;
+}
+.blog-section .thumbnail h3{
+	font-family: 'poppins-semibold';
+	font-size: 18px;
+	line-height: 26px;
+	margin: 0px;
+	padding-bottom: 10px;
+}
+.blog-section .thumbnail p{
+	padding-bottom: 10px;
+	height: 80px;
+	overflow: hidden;
+}
+.blog-section .btn-red {
+	position: absolute;
+	bottom: 20px;
+}
 
 @media only screen and (max-width: 991px) {
 	.contact-address{
@@ -498,6 +532,32 @@ textarea {
 	}
 	.policy-section{
 		padding: 40px 15px;
+	}
+	.tcl-desc.pr40 {
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	.footer-section{
+		position: initial;
+	}
+	.blog-section{
+		padding: 20px 10px;
+	}
+	.blog-section .thumbnail{
+		height: auto;
+		min-height: auto;
+		position: relative;
+		padding: 10px;
+		padding-bottom: 0px;
+	}
+	.blog-section .thumbnail p{
+		padding-bottom: 10px;
+		height: auto;
+		overflow: hidden;
+	}
+	.blog-section .btn-red {
+		position: initial;
+		bottom: 20px;
 	}
 }
 @-webkit-keyframes slideInUp {
@@ -661,6 +721,40 @@ textarea {
 	}
 	.common-heading p {
 		width: 95%;
+	}
+	.header-section {
+		padding: 10px 10px;
+	}
+	.about-team-wrapper {
+		padding: 40px 10px;
+	}
+	.team-card-layout {
+		padding: 30px 0px;
+	}
+	.tcl-desc {
+		display: block;
+		width: 100%;
+		padding-left: 0px;
+		padding-top: 20px;
+		text-align: center;
+	}
+	.tcl-img {
+		margin: 0 auto;
+		display: block;
+	}
+	.tcl-img.mob-show{
+		display: block;
+	}
+	.tcl-img.mob-hide{
+		display: none;
+	}
+	.footer-logo, .footer-social {
+		text-align: center;
+		padding: 0px 0px;
+	}
+	.footer-social ul li {
+		margin: 0px 15px;
+		margin-bottom: 10px;
 	}
 }
 @media screen and (max-width: 500px){
