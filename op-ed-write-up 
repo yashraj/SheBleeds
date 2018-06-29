@@ -1,0 +1,128 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> SheBleeds </title>s
+	<meta name="robots" content="index">
+	<!-- google site verification -->
+	<meta name="robots" content="index">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="content-type" content="text/html;"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320"> 
+	<!-- meta description -->
+	<meta name="description" content="She Bleeds aims to initiate conversation about periods in india.">
+	<!-- meta keywords -->
+	<meta name="keywords" content="She Bleeds, periods, Remove taboo, taboo, periods cycle">
+	<!-- Favicons -->
+	<link rel="shortcut icon" href="assets/images/fav.png">
+	<!-- css link -->
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+	<link href="assets/css/slick.css" rel="stylesheet">
+	<link href="assets/css/slick-theme.css" rel="stylesheet">
+	<link href="assets/css/materialdesignicons.min.css" rel="stylesheet">
+	<!-- custom css -->
+	<link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+	<!-- page load effect -->
+	<div class="se-pre-con"></div> 
+	<!-- header -->
+	<nav class="navbar navbar-default navbar-fixed-top header-section">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="index.html">
+				<!-- <img src="assets/images/logo.png"> -->
+			</a>
+		</div>
+		<div id="navbar" class="navbar-collapse collapse">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="about.html">
+						About us
+					</a>
+				</li>
+				<li>
+					<a href="contact.html">
+						Contact us
+					</a>
+				</li>
+				<li>
+					<a href="">
+						Policy
+					</a>
+				</li>
+				<li>
+					<a href="">
+						Blog
+					</a>
+				</li>
+				<li>
+					<a href="https://www.change.org/p/pstohrm-gov-in-menstrual-leaves-for-women" class="btn btn-red" target="_blank">
+						Sign Our Petition
+					</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+	<div class="body-wrapper">
+		<div class="policy-section">
+			<div class="policydocument">
+				<h5>THE SERIES OF UNFORTUNATE PERIODS</h5>
+				<p>I was rushed into the emergency ward for the first time in 2015, and seven more times since then. If you don’t like hospitals, chances are you will hate the emergency ward. I don’t remember many details about my first visit expect for how terrified and homesick I was feeling . I was very distrustful too, I thought the doctors would dismiss me and the excruciating pain I was in just like they did several times before this.</p>
+				<p>I was not completely wrong about the doctors dismissing me, they waited to complete the Visual Analogue Pain scale before they started treating me when they can clearly see me wincing in pain and sobbing audibly because obviously they had to make sure that they were not enabling an 18 year old painkiller addict.</p>
+				<p>My seventh visit was on January 10th, 2018 and this visit made me appreciate the gift of forgetting as they call it. I was wheeled into the yellow zone of the emergency ward, where I was throwing out some phrases between the sons to give the attending doctor some information but mostly to let the doctor know that I was in this situation before and that I have already consumed a Meftal Spas and Buscopan.</p>
+				<p>There was a crowd around me, one checking my blood pressure, one checking on the oxygen levels, two trying to put a cannula in, one trying to undo my clothes and one doing her best to comfort me and repeating that they are going to help me. As the cannula was in place, I just stare at the white ceiling, to distract myself from watching the nurse inject me with Buscopan and waiting for it to work, waiting for the pain to stop, waiting for a day when all this will go away, just waiting when I feel the nurse injecting me again. Nothing scary here, it was Imejet. The miracle of modern medicine is that we have another injection to counter the side effects of one injection.</p>
+				<p>So there I was lying on the bed, waiting yet again silently, till a sharp pain hit me. I was now writhing in pain. The doctor pushed 75 mg of Voveran and proceeded to prescribe paracip. At this point I was reduced to tears and I can hear myself think, how can I still be in pain? What did I do to deserve this? Will this Stop? When will this stop?</p>
+				<p>To answer that question, it stopped after 6 hours.</p>
+				<p>A lot has been said and misunderstood about period pain - I hear some of my friends defend me in conversations by stating that “one in ten women experience severe menstrual cramps that they are unable to carry out their daily activities.” They were on my side, I can’t help but feel that me and the pain I experience are always reduced to a statistics. I am a person too, Am I not ? and in some conversations I am attacked with questions from some girls like “ How bad is the pain, like really? ” We all experience pain, don’t we? when will we understand that the difference in pain is that of a degree, not of a kind.</p>
+				<p>I remember reading an article titled “Period pain is officially as bad as a heart attack - so why have doctors ignored it? The answer is simple” that made me furious. Did you know that men wait an average of 49 minutes before being treated for abdominal pain? For women, the wait is 65 minutes for the same symptoms!</p>
+				<p>It’s been hard; I plan my days keeping my menstrual cycle in mind. I finish deadlines early, I count the number of sick leaves left, I stock up on the medicine and I constantly worry about ending up in the emergency. I was always cynical about the little acknowledgment given to period pain until I looked at the Menstrual Benefit Bill 2017.</p>
+				<p>Now, I am cautiously optimistic.</p>
+				<p>Many claimed that menstrual leave is an discriminatory policy but for people like me it’s utopia. The menstrual leave is an optional leave, let women make the choice of taking it or not. Do not speak for us, We are Capable, We are Women and We are in Pain.</p>
+			</div>
+		</div>
+	</div>
+	<!-- Js -->
+	<script src="assets/js/jquery-3.1.0.min.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/wow.min.js"></script>
+	<script src="assets/js/slick.min.js"></script>
+	<script src="assets/js/script.js"></script>
+	<script type="text/javascript">
+		
+		// wow js
+		new WOW().init();
+
+		$('.sb-carousel').slick({
+			dots: true,
+			infinite: true,
+			autoplay: true,
+			autoplaySpeed: 2000,
+		});
+
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,7 +2,7 @@
 var windowHeight = $(window).height();
 
 // banner height
-$(".sb-content .sb-img").css("height",windowHeight - 90);
+$(".sb-content .sb-img").css("height",windowHeight - 60);
 
 // page load animation
 $(window).on('load', function(){
